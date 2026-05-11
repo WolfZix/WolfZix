@@ -84,4 +84,4 @@ Currently expanding my knowledge in React architecture and advanced frontend dev
 
 # ⚡ Fun Fact
 
-I'm the fastest learner you'll ever know. Test me 😎
+I'm the fastest learner you'll ever know. Try me 😎
