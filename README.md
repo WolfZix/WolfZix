@@ -1,4 +1,5 @@
 <p align="center" width="100%"><img src="/Wolfix Logo2.png" alt="banner" /></p>
+
 # Hi, I'm WolfZix 👋  
 ### Frontend Developer focused on React & modern UI
 
