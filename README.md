@@ -1,4 +1,4 @@
-<p align="center" height="100px" width="200%"><img src="/Wolfix Logo2.png" alt="banner" /></p>
+<p align="center" height="50px" width="100%"><img src="/Wolfix Logo2.png" alt="banner" /></p>
 
 # Hi, I'm WolfZix 👋  
 ### Frontend Developer focused on React & modern UI
