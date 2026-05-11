@@ -84,4 +84,4 @@ Currently expanding my knowledge in React architecture and advanced frontend dev
 
 # ⚡ Fun Fact
 
-I enjoy building interfaces that feel smooth, modern and satisfying to use.
+I'm the fastest learner you'll ever know. Test me 😎
