@@ -49,7 +49,7 @@ Real-world dashboard project using React Router, React Hooks and reusable compon
 
 ---
 
-## ✅ ToDo App <a href="https://wolfzix.github.io/todo-app/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
+## ✅ ToDo App <a style="width: 100px; height: 50px;" href="https://wolfzix.github.io/todo-app/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
 <img src="/todoapp.png" width="500px" alt="ToDo App Picture"/>
 Task management application with dynamic state handling.
 
