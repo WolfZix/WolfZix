@@ -42,22 +42,22 @@ Currently expanding my knowledge in React architecture and advanced frontend dev
 # 📌 Featured Projects
 
 ## 🌐 Portfolio Website <a href="https://wolfzixportfolio.pl/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
-Modern portfolio built with React and Framer Motion focused on smooth animations, responsive layout and clean UI.
+### Modern portfolio built with React and Framer Motion focused on smooth animations, responsive layout and clean UI.
 
 ## 📊 Dashboard App *(In Progress)* <a href="https://wolfzix.github.io/dashboard/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
-Real-world dashboard project using React Router, React Hooks and reusable components architecture using Framer motion for animations.
+### Real-world dashboard project using React Router, React Hooks and reusable components architecture using Framer motion for animations.
 
 ## ✅ ToDo App <a href="https://wolfzix.github.io/todo-app/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
-Task management application with dynamic state handling.
+### Task management application with dynamic state handling.
 
 ## ⏰ Digital Clock App <a href="https://wolfzix.github.io/digital-clock-app/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
-Interactive digital clock application focused on time logic and UI presentation.
+### Interactive digital clock application focused on time logic and UI presentation.
 
 ## 🎮 Tic Tac Toe <a href="https://wolfzix-tictactoe.netlify.app/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
-Simple browser game project built with only HTML CSS and Javascript with menu and different background options.
+### Simple browser game project built with only HTML CSS and Javascript with menu and different background options.
 
 ## 🏓 Ping Pong <a href="https://wolfzix-pingpong.netlify.app/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
-Simple browser game project focused on JavaScript logic and interactions with options menu, pvp or pve mode and different background options.
+### Simple browser game project focused on JavaScript logic and interactions with options menu, pvp or pve mode and different background options.
 
 ---
 
