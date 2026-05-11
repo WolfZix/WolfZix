@@ -1,12 +1,6 @@
 # Hi, I'm WolfZix 👋  
 ### Frontend Developer focused on React & modern UI
 
-<p align="left">
-  <a href="https://github.com/WolfZix">
-    <img src="https://komarev.com/ghpvc/?username=WolfZix&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
-
 ---
 
 # 🚀 About Me
@@ -68,15 +62,6 @@ Currently expanding my knowledge in React architecture and advanced frontend dev
 - Advanced animations
 - UX / UI optimization
 - Performance optimization
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WolfZix&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WolfZix&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
