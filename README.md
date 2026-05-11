@@ -82,7 +82,7 @@ Currently expanding my knowledge in React architecture and advanced frontend dev
 
 # 🌍 Contact
 
-### ➡️<a href="">![Portfolio Website](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
+### ➡️<a href="">![Static Badge](https://img.shields.io/badge/Portfolio%20Website-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
 
 ### ➡️ [LinkedIn](https://www.linkedin.com/in/patryk-domaszek-508126370/)
 
