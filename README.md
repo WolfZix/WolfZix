@@ -71,7 +71,7 @@ Simple browser game project built with only HTML CSS and Javascript with menu an
 
 ## 🏓 Ping Pong <a href="https://wolfzix-pingpong.netlify.app/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
 <img src="/pingpong.png" width="500px" alt="Ping Pong Picture"/>
-Simple browser game project focused on JavaScript game logic and interactive gameplay features, pvp or pve mode and different background options.
+Simple browser game project focused on JavaScript game logic and interactive gameplay features.
 
 ---
 
