@@ -60,6 +60,7 @@ Currently expanding my knowledge in React architecture and advanced frontend dev
 # 📖 Currently Learning
 
 - React Hooks
+- React Router
 - API integration
 - Advanced animations
 - UX / UI optimization
