@@ -41,21 +41,31 @@ Currently expanding my knowledge in React architecture and advanced frontend dev
 <img src="/portfolio.png" width="500px" alt="Portfolio Website Picture"/>
 Modern portfolio built with React and Framer Motion focused on smooth animations, responsive layout and clean UI.
 
+---
+
 ## 📊 Dashboard App *(In Progress)* <a href="https://wolfzix.github.io/dashboard/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
 <img src="/dashboard.png" width="500px" alt="Dashboard App Picture"/>
 Real-world dashboard project using React Router, React Hooks and reusable components architecture using Framer motion for animations.
+
+---
 
 ## ✅ ToDo App <a href="https://wolfzix.github.io/todo-app/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
 <img src="/todoapp.png" width="500px" alt="ToDo App Picture"/>
 Task management application with dynamic state handling.
 
+---
+
 ## ⏰ Digital Clock App <a href="https://wolfzix.github.io/digital-clock-app/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
 <img src="/digitalclock.png" width="500px" alt="Digital Clock App Picture"/>
 Interactive digital clock application focused on time logic and UI presentation.
 
+---
+
 ## 🎮 Tic Tac Toe <a href="https://wolfzix-tictactoe.netlify.app/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
 <img src="/tictactoe.png" width="500px" alt="Tic Tac Toe Picture"/>
 Simple browser game project built with only HTML CSS and Javascript with menu and different background options.
+
+---
 
 ## 🏓 Ping Pong <a href="https://wolfzix-pingpong.netlify.app/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
 <img src="/pingpong.png" width="500px" alt="Ping Pong Picture"/>
