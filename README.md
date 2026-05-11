@@ -86,11 +86,11 @@ Currently expanding my knowledge in React architecture and advanced frontend dev
 
 ### ➡️ [LinkedIn](https://www.linkedin.com/in/patryk-domaszek-508126370/)
 
-### ➡️ Discord username: WolfeZix
-
 ### ➡️ [Facebook](https://www.facebook.com/profile.php?id=100031876898312)
 
-### Email ➡️ patryk.domaszek41@gmail.com
+### ➡️ Discord username: WolfeZix
+
+### ➡️Email: patryk.domaszek41@gmail.com
 
 ---
 
