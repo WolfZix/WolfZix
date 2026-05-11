@@ -82,7 +82,7 @@ Currently expanding my knowledge in React architecture and advanced frontend dev
 
 # 🌍 Contact
 
-### ➡️<a href="https://wolfzixportfolio.pl/">![Static Badge](https://img.shields.io/badge/Portfolio%20Website-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
+### ➡️[Portfolio Website](https://wolfzixportfolio.pl/)
 
 ### ➡️ [LinkedIn](https://www.linkedin.com/in/patryk-domaszek-508126370/)
 
