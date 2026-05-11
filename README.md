@@ -41,7 +41,7 @@ Currently expanding my knowledge in React architecture and advanced frontend dev
 
 # 📌 Featured Projects
 
-## 🌐 Portfolio Website <a href="https://wolfzixportfolio.pl/"><img src="https://img.shields.io/badge/Check%20it%20out!" /></a>
+## 🌐 Portfolio Website <a href="https://wolfzixportfolio.pl/">(https://img.shields.io/badge/Check%20it%20out!)</a>
 Modern portfolio built with React and Framer Motion focused on smooth animations, responsive layout and clean UI.
 
 ## 📊 Dashboard App *(In Progress)* <a href="https://wolfzix.github.io/dashboard/"><img src="https://img.shields.io/badge/Check%20it%20out!" /></a>
