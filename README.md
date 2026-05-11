@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Wolfix Logo2.png" alt="banner" width="100%" height="25%"/>
+  <img src="/Wolfix Logo2.png" alt="banner" width="100%" height="250px"/>
 </p>
 
 # Hi, I'm WolfZix 👋  
