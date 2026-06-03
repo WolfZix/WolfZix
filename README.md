@@ -4,7 +4,6 @@
 
 # Hi, I'm WolfZix 👋  
 ### Frontend Developer focused on React & modern UI
-
 ---
 
 # 🚀 About Me
