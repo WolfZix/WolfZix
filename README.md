@@ -15,7 +15,7 @@ Currently expanding my knowledge in React architecture and advanced frontend dev
 
 - ⚛️ Mainly working with React + Vite
 - 🎨 Focused on UI/UX & animations
-- 📚 Currently learning advanced React hooks and REST API integration
+- 📚 Currently learning advanced React hooks and software engineering best practices
 - 🔍 Looking for my first opportunity as a Frontend Developer
 
 ---
