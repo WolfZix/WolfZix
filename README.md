@@ -38,7 +38,7 @@ Currently expanding my knowledge in React architecture and advanced frontend dev
 
 # 📌 Featured Projects
 
-## 📊 Dashboard App *(In Progress)* <a href="https://wolfzix.github.io/dashboard/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
+## 📊 Dashboard App *(Backend comming soon)* <a href="https://wolfzix.github.io/dashboard/">![Check it out!](https://img.shields.io/badge/Check%20it%20out%20%F0%9F%91%89-%23962c2c?style=for-the-badge&logoColor=red&labelColor=red)</a>
 <img src="/DashboardProfilePage.png" width="500px" alt="Dashboard App Picture"/>
 Real-world dashboard application built with React Router, React Hooks, and a scalable reusable component architecture. Features user management, role-based permissions, customizable UI settings, Framer Motion animations, and a strong focus on clean, maintainable, production-ready code.
 
