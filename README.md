@@ -99,6 +99,8 @@ Simple browser game project focused on JavaScript game logic and interactive gam
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Fun Facts
 
-I'm the fastest learner you'll ever know. Try me 😎
+1. I'm the fastest learner you'll ever know. Try me 😎
+2. Longest coding session without any breaks: 17h
+3. Nobody can annoy me / make me angry
