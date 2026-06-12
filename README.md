@@ -102,5 +102,5 @@ Simple browser game project focused on JavaScript game logic and interactive gam
 # ⚡ Fun Facts
 
 1. I'm the fastest learner you'll ever know. Try me 😎
-2. Longest coding session without any breaks: 17h
+2. Longest coding session without any breaks: 17h (May 12th)
 3. Nobody can annoy me / make me angry
